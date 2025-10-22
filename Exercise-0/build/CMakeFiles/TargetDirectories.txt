@@ -1,0 +1,4 @@
+/home/iliasu07/Documents/GitHub/3D-SMC/Exercise-0/build/CMakeFiles/lib.dir
+/home/iliasu07/Documents/GitHub/3D-SMC/Exercise-0/build/CMakeFiles/app.dir
+/home/iliasu07/Documents/GitHub/3D-SMC/Exercise-0/build/CMakeFiles/edit_cache.dir
+/home/iliasu07/Documents/GitHub/3D-SMC/Exercise-0/build/CMakeFiles/rebuild_cache.dir
