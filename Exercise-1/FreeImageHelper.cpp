@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <cstring>
+#include <limits>
 
 //#pragma comment(lib, "FreeImage.lib")
 
